@@ -2,6 +2,13 @@
 My submission for Shopify's 2019 Developer Challenge. This is an API for an online market place where you can browse products, create a cart, add products to the cart, and checkout & get a reciept.  
 This was made using Node.js, Express, & GraphQL.
 
+## Running the API
+To run the api, first install Node.js if you do not have it installed already. Open a terminal from inside the challenge folder and enter the command
+```
+node server.js
+```
+Then open your internet browser and go to the url **http://localhost:4000/graphql**.
+
 ## GraphQL Types
 ### MessageType
 The Message Type is used for sending a simple message
