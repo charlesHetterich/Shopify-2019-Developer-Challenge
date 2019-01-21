@@ -104,10 +104,6 @@ var addToCart = function(title) {
     }
 }
 
-var removeFromCart = function(title) {
-
-}
-
 //getReciept : () -> RecieptType
 //return a reciept with a deep copy of our cart & the total price
 var getReciept = function() {
