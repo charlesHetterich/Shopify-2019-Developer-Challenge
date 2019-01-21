@@ -1,4 +1,4 @@
-# Shopify-2019-Developer-Challenge
+# Shopify 2019 Developer Challenge
 My submission for Shopify's 2019 Developer Challenge. This is an API for an online market place where you can browse products, create a cart, add products to the cart, and checkout & get a reciept.  
 This was made using Node.js, Express, & GraphQL.
 
